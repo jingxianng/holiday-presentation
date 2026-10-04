@@ -10,7 +10,7 @@ site/
   alps-2027/            "The Alps by Train" — Bavaria / Switzerland / Italy, Sept 2027
     index.html          The whole trip page (styles inline, no build step)
     images/             Photos, referenced with relative paths (images/...)
-  northern-spain/       Placeholder — trip still in planning
+  northern-spain/       "Green Spain" — Madrid / Asturias / Basque Country, Sept 2027
 references/
   alps-2027/            Planning docs the trip page was built from:
     trip-logistics.md     car/train/transfer logistics, nights per stop
